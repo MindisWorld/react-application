@@ -1,0 +1,5 @@
+.search .valid-feedback,
+.search .invalid-feedback {
+  display: block;
+  min-height: 60px;
+}
